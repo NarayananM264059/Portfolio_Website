@@ -11,7 +11,6 @@ A responsive portfolio website showcasing my projects, skills, and contact infor
 - [Installation](#installation)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Demo
